@@ -16,4 +16,9 @@ a {
 header {
     background-color: #1f2937;
     display: flex;
+
+}
+
+.header-container {
+    display: flex;
 }
