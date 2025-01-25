@@ -80,3 +80,9 @@ button {
     gap: 18px;
     margin-right: 24px;
 }
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
