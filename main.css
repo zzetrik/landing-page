@@ -21,4 +21,8 @@ header {
 
 .header-container {
     display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-left: auto;
+    padding: 12px;
 }
