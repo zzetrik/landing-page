@@ -46,3 +46,7 @@ button {
     background-color: #850c85;
     color: #f9faf8;
 }
+
+.hero-main {
+    display: flex;
+}
