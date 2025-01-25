@@ -16,8 +16,8 @@ a {
 header {
     background-color: #1f2937;
     display: flex;
-    justify-content: space-around;
-    height: 70px
+    justify-content: space-evenly;
+    height: 70px;
 }
 
 .header-container {
@@ -36,8 +36,7 @@ header {
 hero {
     background-color: #1f2937;
     display: flex;
-    justify-content: space-around;
-    padding-top: 50px;
+    padding-top: 24px;
 }
 
 .welcome-text {
@@ -45,20 +44,35 @@ hero {
     font-size: 48px;
     font-weight: bold;
     max-width: 300px;
+    align-self: center;
 }
 
 .describe-text {
     color: #e5e7eb;
     font-weight: 18px;
     max-width: 300px;
+    align-self: center;
+
 }
 
 button {
     background-color: #850c85;
     color: #f9faf8;
+    flex-shrink: 1;
+    width: 100px;
+    padding: 5px;
 }
 
 .hero-main {
     display: flex;
-    gap: 24px;
+    flex: auto;
+    justify-content: center;
+}
+
+.hero-main-item {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 24px;
+    gap: 18px;
+    margin-right: 24px;
 }
