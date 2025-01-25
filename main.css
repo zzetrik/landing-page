@@ -30,6 +30,7 @@ hero {
     background-color: #1f2937;
     display: flex;
     justify-content: space-around;
+    padding-top: 50px;
 }
 
 .welcome-text {
@@ -52,4 +53,5 @@ button {
 
 .hero-main {
     display: flex;
+    gap: 24px;
 }
