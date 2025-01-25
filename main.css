@@ -16,13 +16,13 @@ a {
 header {
     background-color: #1f2937;
     display: flex;
-
+    justify-content: space-around
 }
 
 .header-container {
     display: flex;
-    gap: 10px;
+    gap: 18px;
     align-items: center;
-    margin-left: auto;
     padding: 12px;
+
 }
