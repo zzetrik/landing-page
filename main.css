@@ -121,3 +121,7 @@ h1 {
     background: padding-box linear-gradient(rgb(30 41 59), rgb(30 41 59)),
         border-box linear-gradient(rgb(255 255 255), rgb(255 255 255 / 0.1));
 }
+
+.boldT {
+    font-weight: bolder;
+}
