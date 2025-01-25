@@ -65,8 +65,9 @@ button {
     padding: 5px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 700;
-    border-radius: 8px;
+    border-radius: 30px;
     border-color: rgb(121, 106, 80);
+    border: 0;
 }
 
 .hero-main {
@@ -94,6 +95,7 @@ main {
 }
 
 h1 {
+    font-style: oblique;
     text-align: center;
     font-size: 36px;
     padding: 16px 8px 44px 16px;
