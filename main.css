@@ -16,7 +16,8 @@ a {
 header {
     background-color: #1f2937;
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    height: 70px
 }
 
 .header-container {
@@ -24,6 +25,12 @@ header {
     gap: 18px;
     align-items: center;
     padding: 12px;
+    margin-top: 4px;
+}
+
+.header-logo {
+    align-self: center;
+    padding-top: 10px;
 }
 
 hero {
