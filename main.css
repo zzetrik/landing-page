@@ -30,3 +30,14 @@ hero {
     background-color: #1f2937;
     display: flex;
 }
+
+.welcome-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.describe-text {
+    color: #e5e7eb;
+    font-weight: 18px;
+}
