@@ -80,3 +80,11 @@ button {
     gap: 18px;
     margin-right: 24px;
 }
+
+h1 {
+    text-align: center;
+}
+
+.player-container {
+    display: flex;
+}
