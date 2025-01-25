@@ -108,6 +108,10 @@ h1 {
     padding-bottom: 15px;
 }
 
+.text-box {
+    height: 200px;
+}
+
 .center-image {
     border: 1px solid transparent;
     background: padding-box linear-gradient(rgb(30 41 59), rgb(30 41 59)),
