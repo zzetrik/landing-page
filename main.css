@@ -190,3 +190,12 @@ quote {
     padding: 10px;
     border: 2px solid #1F2937;
 }
+
+footer {
+    height: 60px;
+    background-color: #1F2937;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
