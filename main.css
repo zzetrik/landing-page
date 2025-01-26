@@ -171,7 +171,7 @@ quote {
 .outer-container {
     background-color: #3882f6;
     display: flex;
-    border-radius: 14px;
+    border-radius: 10px;
     align-items: center;
     padding: 35px 80px;
     gap: 100px;
