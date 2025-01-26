@@ -68,6 +68,7 @@ button {
     border-radius: 30px;
     border-color: rgb(121, 106, 80);
     border: 0;
+    font-size: 10px;
 }
 
 .hero-main {
@@ -157,4 +158,35 @@ quote {
     padding-left: 700px;
     font-weight: 600;
     font-style: italic;
+}
+
+#final-content {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.outer-container {
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 14px;
+    align-items: center;
+    padding: 35px 80px;
+    gap: 100px;
+}
+
+.final-content-container {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 4px;
+}
+
+.join-button {
+    font-family: monospace;
+    font-size: 10px;
+    padding: 10px;
+    border: 2px solid #1F2937;
 }
